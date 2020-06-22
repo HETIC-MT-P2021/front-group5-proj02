@@ -1,3 +1,7 @@
+# front-group5-proj02
+
+> SPA React app to handle images upload, download and treatment
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
